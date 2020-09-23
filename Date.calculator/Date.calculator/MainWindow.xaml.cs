@@ -24,5 +24,10 @@ namespace Date.calculator
         {
             InitializeComponent();
         }
+
+        private void btnCalculate_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
