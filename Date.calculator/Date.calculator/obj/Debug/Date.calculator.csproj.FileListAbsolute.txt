@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\bin\Debug\Date.calculator.exe.config
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\bin\Debug\Date.calculator.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\bin\Debug\Date.calculator.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator_MarkupCompile.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator_MarkupCompile.lref
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator.g.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project2\Daniel.DateCalculator\Date.calculator\Date.calculator\obj\Debug\Date.calculator.pdb
