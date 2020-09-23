@@ -36,6 +36,9 @@ namespace Date.calculator
 
             double days = (nextBirthday2021 - now).TotalDays;
             MessageBox.Show(days.ToString());
+
+            var Days = (nextBirthday2021 - now).TotalDays;
+            lblDays.Content = "You are " + days + " days old";
         }
     }
 }

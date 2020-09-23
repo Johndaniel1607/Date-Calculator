@@ -9,6 +9,7 @@
     <Grid>
         <DatePicker x:Name="dtBirthday" HorizontalAlignment="Left" Height="34" Margin="26,68,0,0" VerticalAlignment="Top" Width="288"/>
         <Button x:Name="btnCalculate" Content="Click me" HorizontalAlignment="Left" Height="38" Margin="26,148,0,0" VerticalAlignment="Top" Width="191" Click="btnCalculate_Click"/>
+        <Label x:Name="lblDays" Content="" HorizontalAlignment="Left" Height="29" Margin="26,219,0,0" VerticalAlignment="Top" Width="580"/>
 
     </Grid>
 </Window>
